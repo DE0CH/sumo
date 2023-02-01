@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "SUMO"
   avatar : "assets/images/SUMOLOGO.jpg"
-  bio    : "I am a cute nerd who is good at maths."
+  bio    : "I am a cute nerd who is good at maths. This is a preview"
   links:
     - label: "SUMO Facebook Event"
       icon: "fab fa-fw fa-facebook"
